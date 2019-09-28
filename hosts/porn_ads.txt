@@ -17,6 +17,7 @@
 ::1  localhost
 
 127.0.0.1       2ads.co.uk
+127.0.0.1 www.rushporn.com
 127.0.0.1       123.fluxads.com
 127.0.0.1       189-211-177-171.static.axtel.net
 127.0.0.1       1000bannerx.free.fr
